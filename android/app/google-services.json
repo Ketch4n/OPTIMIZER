@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243623513337",
+    "project_id": "cemeteryoptimizer",
+    "storage_bucket": "cemeteryoptimizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243623513337:android:b06a04996bca0a81586628",
+        "android_client_info": {
+          "package_name": "com.example.optimizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8S-IlgGiIPWtnMbNwenE80V07H3FWFwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
